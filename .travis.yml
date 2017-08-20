@@ -1,8 +1,8 @@
+dist: trusty
 sudo: required
 language: csharp
-solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
 mono: none
-dotnet: 1.0.3
-dist: trusty
+dotnet: 1.0.1
+solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
 script:
- - dotnet restore
+  - dotnet restore
