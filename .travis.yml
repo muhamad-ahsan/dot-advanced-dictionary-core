@@ -2,7 +2,5 @@ language: csharp
 solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
 mono: none
 dist: trusty
-install:
-  - nuget restore DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
 script:
  - dotnet restore  
