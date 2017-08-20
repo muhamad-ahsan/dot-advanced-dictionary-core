@@ -1,2 +1,8 @@
--language: csharp
--solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
+language: csharp
+solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
+mono: none
+dist: trusty
+install:
+  - nuget restore solution-name.sln
+script:
+ - dotnet restore  
