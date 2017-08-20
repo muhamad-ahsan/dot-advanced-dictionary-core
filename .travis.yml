@@ -1,6 +1,8 @@
+sudo: required
 language: csharp
 solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
 mono: none
 dist: trusty
 script:
- - dotnet restore  
+ - dotnet restore
+ - dotnet test ./DotAdvancedDictionary.Test/DotAdvancedDictionary.Test.csproj -c Release
