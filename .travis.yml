@@ -4,7 +4,3 @@ language: csharp
 mono: none
 dotnet: 1.0.4
 solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
-before_script:
-    - chmod +x ./build/*.sh
-script:
-  - dotnet restore src
