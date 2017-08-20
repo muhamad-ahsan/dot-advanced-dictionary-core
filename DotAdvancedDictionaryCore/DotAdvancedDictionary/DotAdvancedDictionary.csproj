@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>Dictionary with advance features including auto retrieval, max limit etc for .Net Core  =&gt; 2.0 (Standard 2.0).</Description>
+    <Copyright>Copyright ©  2017</Copyright>
+    <Authors>muhamad.ahsan</Authors>
+    <PackageId>DotAdvancedDictionary.Core</PackageId>
+    <Company />
+    <PackageTags>Dictionary Advanced AdvancedDictionary .Net Dot Core Standard</PackageTags>
+    <Product />
+    <PackageReleaseNotes>- DotAdvancedDictionary library version for .Net Core =&gt; 2.0 (Standard 2.0)</PackageReleaseNotes>
+    <Version>1.0.0.1</Version>
+  </PropertyGroup>
+
+</Project>

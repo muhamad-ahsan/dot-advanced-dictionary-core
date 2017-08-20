@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotAdvancedDictionary", "DotAdvancedDictionary\DotAdvancedDictionary.csproj", "{FEEED9EF-5BF1-45E1-A6D0-B755D1BF54AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotAdvancedDictionary.Test", "DotAdvancedDictionary.Test\DotAdvancedDictionary.Test.csproj", "{7BD42FF8-99CB-47FC-9274-43A5A683E9BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEED9EF-5BF1-45E1-A6D0-B755D1BF54AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEED9EF-5BF1-45E1-A6D0-B755D1BF54AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEED9EF-5BF1-45E1-A6D0-B755D1BF54AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEED9EF-5BF1-45E1-A6D0-B755D1BF54AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BD42FF8-99CB-47FC-9274-43A5A683E9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD42FF8-99CB-47FC-9274-43A5A683E9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD42FF8-99CB-47FC-9274-43A5A683E9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD42FF8-99CB-47FC-9274-43A5A683E9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71563380-CAEE-48BF-97A0-EFC5286BCEAB}
+	EndGlobalSection
+EndGlobal
