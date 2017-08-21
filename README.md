@@ -4,7 +4,7 @@
 Advanced dictionary for .Net Core => 2.0 (.Net Standard => 2.0) is regular dictionary with some advanced features. This include maximum size limit to avoid out-of-memory issues, auto value retrieval if key not found, auto cleanup of old keys if more space is required and multi-threading (concurrent access). It is perfect for in-memory cache and for other general purposes.
 
 ### Note
-This repository is the port of [DotAdvancedDictionary](https://github.com/muhamad-ahsan/dot-advanced-dictionary) for .Net Core.
+This repository is the port of [DotAdvancedDictionary](http://bit.ly/2xipLkm) for .Net Core.
 
 
 # Usage
