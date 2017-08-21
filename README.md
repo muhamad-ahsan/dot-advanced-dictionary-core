@@ -54,4 +54,4 @@ public static string GetValue(string key)
 # Nuget
 The package can be downloaded from nuget with the following link:
 
-[![NuGet](https://img.shields.io/badge/nuget-v1.0.0.1-blue.svg)](https://www.nuget.org/packages/DotAdvancedDictionary.Core)
+[![NuGet](https://img.shields.io/badge/nuget-v1.0.0.1-blue.svg)](http://bit.ly/2ijvx2j)
