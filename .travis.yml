@@ -7,4 +7,4 @@ solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
 before_install:
   - chmod +x ./build.sh
 script:
-  - ./build.sh --quiet verify
+  - ./build.sh
