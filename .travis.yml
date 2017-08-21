@@ -2,9 +2,9 @@ dist: trusty
 sudo: required
 language: csharp
 mono: none
-dotnet: 1.0.4
+dotnet: 2.0.0-preview2-006497
 solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
-before_install:
-  - chmod +x ./build.sh
 script:
-  - ./build.sh
+  - set -e
+  - dotnet restore
+  - dotnet build -c Release
