@@ -4,5 +4,7 @@ language: csharp
 mono: none
 dotnet: 1.0.4
 solution: DotAdvancedDictionaryCore/DotAdvancedDictionaryCore.sln
+before_install:
+  - chmod +x ./build.sh
 script:
   - ./build.sh --quiet verify
